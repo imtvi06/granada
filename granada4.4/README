@@ -1,0 +1,12 @@
+GRANADA4
+To install this program be sure that 
+your system has gfortran installed.
+Then,
+
+bash$: cd src
+bash$: make
+bash$: sudo cp granada4.4.x /usr/local/bin
+
+If /usr/local/bin is in your path, it 
+only needs to follow the manual in doc.
+Good luck!

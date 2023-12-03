@@ -1,0 +1,5 @@
+3,20.,50,1,1
+INCLUDE,SOLID2_1.5,ORCA3                     
+! RHF ZINDO/S TightSCF DIIS NoRICO NoMOPrint
+%cis NRoots 40
+end
