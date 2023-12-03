@@ -1,0 +1,38 @@
+10c10
+<      &                    asl(3,NATSMAX), d(3), aqpm(3), aqpp(3)
+---
+>      &                    asl(3,NATSMAX), d(3), aqpm(3), aqpp(3), fvdw
+194c194
+<       CALL TESTVDW (ntot, qroom, aa, nat, nsolv, as, nats, *10)
+---
+>       CALL TESTVDW (ntot, qroom, aa, nat, nsolv, as, nats, fvdw, *10)
+215c215
+<      &' CELL:',ii,'. Central system with',nlim,' distributed molecules.'
+---
+>      &' CELL:',ii,', central system with',nlim,' distributed molecules.'
+232c232
+<      &' CELL:',ii,'. Central system with',nlim,' distributed molecules.'
+---
+>      &' CELL:',ii,', central system with',nlim,' distributed molecules.'
+259c259
+<      &' CELL:',ii,'. Central system with',nlim,' distributed molecules.'
+---
+>      &' CELL:',ii,', central system with',nlim,' distributed molecules.'
+314c314
+<       SUBROUTINE TESTVDW (np, qroom, aa, natp, ns, as, nats, *)
+---
+>       SUBROUTINE TESTVDW (np, qroom, aa, natp, ns, as, nats, fvdw, *)
+323,327d322
+<       if (qroom) then
+<         fff = 0.5d0
+<       else
+<         fff = 0.75d0
+<       endif
+333c328
+<           rmin = fff*(s(natp(ip)) + s(nats(is)))
+---
+>           rmin = fvdw*(s(natp(ip)) + s(nats(is)))
+347c342
+<      &                    asl(3,NATSMAX), d(3), aqpm(3), aqpp(3) 
+---
+>      &                    asl(3,NATSMAX), d(3), aqpm(3), aqpp(3), fvdw

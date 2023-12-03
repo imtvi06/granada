@@ -1,0 +1,37 @@
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+Setting the name of  0x26e8800  to  "org.kde.ActivityManager.ActivityTemplates"
+Setting the name of  0x26f11e0  to  "org.kde.ActivityManager.RunApplication"
+Setting the name of  0x26fbb20  to  "org.kde.ActivityManager.Resources.Scoring"
+Creating directory:  "/home/lmc/.local/share/kactivitymanagerd/resources/"
+KActivities: Database connection:  "kactivities_db_resources_139683212626112_readwrite" 
+    query_only:          QVariant(qlonglong, 0) 
+    journal_mode:        QVariant(QString, "wal") 
+    wal_autocheckpoint:  QVariant(qlonglong, 100) 
+    synchronous:         QVariant(qlonglong, 1)
+Service started, version: 6.2.0
+Creating the cache for:  "/home/lmc/granada4.5/src/xyz2int.f"
+Already in database?  false
+      First update :  QDateTime(2020-11-03 09:23:46.000 MST Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-11-03 09:23:46.000 MST Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  0
+      First update :  QDateTime(2020-11-03 09:23:46.523 MST Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-11-03 09:23:46.000 MST Qt::TimeSpec(LocalTime))
+         New score :  0
+Creating the cache for:  "/home/lmc/granada4.5/src/xyz2int.f"
+Already in database?  true
+      First update :  QDateTime(2020-11-03 09:23:46.000 MST Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-11-03 09:23:46.000 MST Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  0
+      First update :  QDateTime(2020-11-03 09:23:46.000 MST Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-11-03 09:23:46.000 MST Qt::TimeSpec(LocalTime))
+Interval length is  19
+         New score :  0.316667
+
+(kate:58): GConf-WARNING **: Got Disconnected from DBus.
+
+Cleaning up...
+QThread: Destroyed while thread is still running
+Closing SQL connection:  "kactivities_db_resources_139683212626112_readwrite"

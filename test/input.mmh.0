@@ -1,0 +1,4 @@
+10,10.,100
+INCLUDE,GAUSSIAN2,fvdw(0.3)
+%nproc=6
+#opt cc-pVDZ PBE1PBE
