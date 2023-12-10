@@ -1,0 +1,36 @@
+80c80
+<         do j=1,2
+---
+>         do j=1,3
+145,151c145
+<         CALL RANDOM_NUMBER (Rand)
+<         ass = Rand*d(3)
+<         DO i=1,nsolv
+<           as(3,i) = as(3,i) - ass
+<           if (as(3,i).lt.0) goto 40
+<         enddo
+<         DO j=1,2
+---
+>         DO j=1,3
+153,158c147,160
+<           ass = signo()*Rand*abs(aqpp(j) - aqpm(j))
+<           DO i=1,nsolv
+<             as(j,i) = as(j,i) - ass
+<             if (as(j,i).gt.aqpp(j)) goto 40
+<             if (as(j,i).lt.aqpm(j)) goto 40
+<           ENDDO
+---
+>           if (j.eq.3) then
+>             ass = Rand*d(j)
+>             DO i=1,nsolv
+>               as(j,i) = as(j,i) - ass
+>               if (as(j,i).lt.0) goto 40
+>             ENDDO
+>           else
+>             ass = signo()*Rand*abs(aqpp(j) - aqpm(j))
+>             DO i=1,nsolv
+>               as(j,i) = as(j,i) - ass
+>               if (as(j,i).gt.aqpp(j)) goto 40
+>               if (as(j,i).lt.aqpm(j)) goto 40
+>             ENDDO
+>           endif

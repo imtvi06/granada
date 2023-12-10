@@ -1,0 +1,137 @@
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+Setting the name of  0xa33070  to  "org.kde.ActivityManager.ActivityTemplates"
+Setting the name of  0xa39900  to  "org.kde.ActivityManager.RunApplication"
+Setting the name of  0xa48d80  to  "org.kde.ActivityManager.Resources.Scoring"
+Creating directory:  "/home/lmc/.local/share/kactivitymanagerd/resources/"
+KActivities: Database connection:  "kactivities_db_resources_140051894307008_readwrite" 
+    query_only:          QVariant(qlonglong, 0) 
+    journal_mode:        QVariant(QString, "wal") 
+    wal_autocheckpoint:  QVariant(qlonglong, 100) 
+    synchronous:         QVariant(qlonglong, 1)
+Service started, version: 6.2.0
+Creating the cache for:  "/home/lmc/granada4.2/test/input.mmh.test"
+Already in database?  false
+      First update :  QDateTime(2020-10-11 23:10:20.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-11 23:10:20.000 MDT Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  0
+      First update :  QDateTime(2020-10-11 23:10:20.872 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-11 23:10:20.000 MDT Qt::TimeSpec(LocalTime))
+         New score :  0
+Creating the cache for:  "/home/lmc/granada4.2/test/input.mmh-z2"
+Already in database?  false
+      First update :  QDateTime(2020-10-11 23:10:38.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-11 23:10:38.000 MDT Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  0
+      First update :  QDateTime(2020-10-11 23:10:38.891 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-11 23:10:38.000 MDT Qt::TimeSpec(LocalTime))
+         New score :  0
+Creating the cache for:  "/home/lmc/granada4.2/test/input.mmh.test"
+Already in database?  true
+      First update :  QDateTime(2020-10-11 23:10:20.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-11 23:10:20.000 MDT Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  0
+      First update :  QDateTime(2020-10-11 23:10:20.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-11 23:10:20.000 MDT Qt::TimeSpec(LocalTime))
+Interval length is  1997
+         New score :  33.2833
+Creating the cache for:  "/home/lmc/granada4.2/test/input.mmh-z2"
+Already in database?  true
+      First update :  QDateTime(2020-10-11 23:10:38.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-11 23:10:38.000 MDT Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  0
+      First update :  QDateTime(2020-10-11 23:10:38.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-11 23:10:38.000 MDT Qt::TimeSpec(LocalTime))
+Interval length is  1921
+         New score :  32.0167
+Creating the cache for:  "/home/lmc/granada4.2/src/dresdenr.f"
+Already in database?  false
+      First update :  QDateTime(2020-10-11 23:44:09.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-11 23:44:09.000 MDT Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  0
+      First update :  QDateTime(2020-10-11 23:44:09.310 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-11 23:44:09.000 MDT Qt::TimeSpec(LocalTime))
+         New score :  0
+Creating the cache for:  "/home/lmc/granada4.2/test/input.mmh"
+Already in database?  false
+      First update :  QDateTime(2020-10-11 23:44:09.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-11 23:44:09.000 MDT Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  0
+      First update :  QDateTime(2020-10-11 23:44:09.312 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-11 23:44:09.000 MDT Qt::TimeSpec(LocalTime))
+         New score :  0
+Creating the cache for:  "/home/lmc/py/clase18.py"
+Already in database?  true
+      First update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  0
+      First update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+Interval length is  1179
+Interval length is  498
+Interval length is  16
+         New score :  28.2167
+Creating the cache for:  "/home/lmc/py/clase17a.py"
+Already in database?  true
+      First update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  0
+      First update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+Interval length is  515
+Interval length is  3
+         New score :  8.63333
+Creating the cache for:  "/home/lmc/py/clase18.py"
+Already in database?  true
+      First update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-12 07:32:03.000 MDT Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  28.2167
+      First update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-12 07:32:03.000 MDT Qt::TimeSpec(LocalTime))
+Interval length is  21
+Interval length is  3
+         New score :  28.6167
+Creating the cache for:  "/home/lmc/py/clase17a.py"
+Already in database?  true
+      First update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-12 07:32:19.000 MDT Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  8.63333
+      First update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-12 07:32:19.000 MDT Qt::TimeSpec(LocalTime))
+Interval length is  12
+         New score :  8.83333
+Creating the cache for:  "/home/lmc/py/number_cr.f"
+Already in database?  false
+      First update :  QDateTime(2020-10-12 08:34:30.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-12 08:34:30.000 MDT Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  0
+      First update :  QDateTime(2020-10-12 08:34:30.407 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-12 08:34:30.000 MDT Qt::TimeSpec(LocalTime))
+         New score :  0
+Creating the cache for:  "/home/lmc/py/clase18.py"
+Already in database?  true
+      First update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-12 07:33:00.000 MDT Qt::TimeSpec(LocalTime))
+After the adjustment
+     Current score :  28.6167
+      First update :  QDateTime(2020-10-09 08:21:17.000 MDT Qt::TimeSpec(LocalTime))
+       Last update :  QDateTime(2020-10-12 07:33:00.000 MDT Qt::TimeSpec(LocalTime))
+Interval length is  3637
+Interval length is  3616
+Interval length is  3392
+Interval length is  3385
+         New score :  262.45
+kactivitymanagerd: Fatal IO error 11 (Resource temporarily unavailable) on X server localhost:0.0.
+QThread: Destroyed while thread is still running
+Closing SQL connection:  "kactivities_db_resources_140051894307008_readwrite"
