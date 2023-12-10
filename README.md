@@ -1,2 +1,5 @@
 # granada
-# granada
+GRANADA is a computer program that is designed to read Cartesian coordinate files in XYZ format that contain atomic data of molecules in order to generate cells where environmental molecules are randomly surrounding it. The files it produces can be the same kind of Cartesian coordinates in the XYZ for further processing. It can also produce Cartesian coordinate input files for “Gaussian” system of programs, internal coordinate MOPAC files and “Orca” program system like input files. This program does not use any potential that can influence random distribution of molecules other than disallowing overlap farther than the van der Waals radii of component atoms.
+
+Originally written by Luis A. Montero, Faculty of Chemistry, University of Havana 10400, Cuba at the Technical University of Dresden, in 1995, and completed at the University of Granada, Molecular Design and Modeling Group, Granada 18071, Spain, in June, 1996. Latest granada4 versions were produced at the Dep. of Chemistry, Johns Hopkins University, Baltimore, MD 21210, USA during March – October, 2020. 
+
